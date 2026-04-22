@@ -18,9 +18,6 @@ A comprehensive collection of migration guides for upgrading Odoo modules across
 - Security and Configuration Updates
 - Best Practices for Smooth Upgrades
 
-## Author
-
-These guides are compiled and written by Osama Alhalabi.
 
 ## Contributing
 
